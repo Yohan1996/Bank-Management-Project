@@ -70,19 +70,11 @@ Nowadays every bank use a bank management system for store data and information.
 
 ![image](https://user-images.githubusercontent.com/69201980/121774522-6551d600-cba0-11eb-958b-7e5fc134e4d4.png)
 
+<b>Test Cases</b>
 
+![image](https://user-images.githubusercontent.com/69201980/124366172-588a4480-dc6b-11eb-9962-316b243cc75c.png)
 
-
- 		
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/69201980/124366176-62ac4300-dc6b-11eb-8384-e1b2e1d9a725.png)
 
 
 
