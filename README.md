@@ -72,19 +72,6 @@ The Bank Management System is developing by using relevant technologies. Bank ha
 
 ![image](https://user-images.githubusercontent.com/69201980/121774522-6551d600-cba0-11eb-958b-7e5fc134e4d4.png)
 
-<b>Test Cases</b>
-
-![image](https://user-images.githubusercontent.com/69201980/124366172-588a4480-dc6b-11eb-9962-316b243cc75c.png)
-
-![image](https://user-images.githubusercontent.com/69201980/124366243-e23a1200-dc6b-11eb-9437-205b620231cc.png)
-
-![image](https://user-images.githubusercontent.com/69201980/124366207-99825900-dc6b-11eb-9e94-1b93e9d3f63c.png)
-
-![image](https://user-images.githubusercontent.com/69201980/124366210-a43cee00-dc6b-11eb-945b-0dffd4511839.png)
-
-![image](https://user-images.githubusercontent.com/69201980/124366216-aef78300-dc6b-11eb-918f-f1fca45f1923.png)
-
-![image](https://user-images.githubusercontent.com/69201980/124366221-b9198180-dc6b-11eb-8c6e-4ead7917e6aa.png)
 
 
 
